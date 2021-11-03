@@ -16,25 +16,33 @@ Group Ideas:
               it includes data regarding the top 10 skills in demand for labor industries, labor growth trends for each industry,
               talent migration from different nations, and skill penetration amongst different industries.
               
-        Identify who your customer/s would  be (8points).
+        Identify who your customer/s would  be.
         
               The target customers would be recuruiters and talent agencies trying to keep up with trends in the labor market, as well as,
               individuals looking to change careers or enhance their skillsets to make themselves more marketable.
               
-        Describe the problem that each proposed project solves and justify its need (10 points)
+        Describe the problem that each proposed project solves and justify its need.
         
               The problem this project would look to address is adding transperency to the labor market to better enable those involved in
               the hiring process to understand the trends and growth of industries that they are hiring for. Also, to better inform the 
               individuals looking to find employment in these industries what the marketable skillsets are, as well as, where the growth is
               in each industry.
               
-        State the product vision and how your web based project would be useful to society (8 points)
+        State the product vision and how your web based project would be useful to society.
         
-              todo
+              Our product is for recruiters who are looking to stay current with hiring trends in different job fields and individuals 
+              who are looking for new careers or to better their marketablility in their current feild. The product is designed to give 
+              visulization tools for LinkedIn labor market data that will enable our customers to easily digest trend information to be 
+              better able to meet the hiring demands of their company or see where to focus to make themselves more marketable to employers. 
+              Unlike O*Net and other career guidance applicaitons our product visualizes current hiring trends for marketable technical and 
+              buissness skills so that customers are up to date with the most current information available. 
               
-        Identify the major features of each of the proposed projects. (12 points)
+        Identify the major features of each of the proposed projects.
         
-              todo test edit
+              -enable visulization of skill demand by career field
+              -enable visulization of growth by industry in a nation
+              -enable visulization of migration of industry workers to or from a nation
+              -enable visulization of skill penetration in different industries by year
               
     NEXT PERSON
     
