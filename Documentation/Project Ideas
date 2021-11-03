@@ -66,7 +66,46 @@ Group Ideas:
         Identify the major features 
           The major feature of this product is showing what traffic patterns are like for roads in Chicago IL. It would also let the user
           filter by time they want the views as during some times areas are more likely to get more traffic such as malls during december.
-          It would also let the user see a graph of what days a street has the majority of its traffic as well as graphs showing by season.          
+          It would also let the user see a graph of what days a street has the majority of its traffic as well as graphs showing by season.
+          
+   NEXT PERSON
+   
+   Tyler Iles:
+        List the source of and describe at least 4 potential data sets:
+              
+              https://dashboard.myfuturenc.org/college-and-career-access/fafsa-completion-rate/
+              https://studentaid.gov/data-center/student/application-volume/fafsa-completion-high-school
+              https://cashier.unc.edu/tuition-fees/prior-year-rates/
+              
+              The first data shows the completion rate for the FAFSA application for North Carolina. It also showcases why it's important for students
+              to complete their free FAFSA application. The second data set says more of the same, but the dataset is pulled straight from the Federal Student Aid
+              website, a subsidiary for the Department of Education. The third dataset shows the tuition cost of the University of North Carolina in Chapel Hill
+              over time. This is to show demostrate that with the tuition and fee cost going up, it's more important than ever to apply for Federal Aid.
+        
+        Identify who your customer/s would be (8points).
+              
+              The customer would be any college student or parents of students looking for finacinal aid for college
+              
+        Describe the problem that each proposed project solves and justify its need (10 points)
+              
+              The problem with tuition cost is the fact that they are being inflated as finacial aid becomes more readily available. From scholarship to loans, owning
+              a college while intitutionalized is also very much lucrative, and this trend of increasing the cost of going to school isn't going down anytime soon.
+              This product serves as a tool to remind you to fill out a FAFSA before the deadline and as an additional feature, certain scholarships and finacial aid
+              would be automatically applied for.
+        
+        State the product vision and how your web based project would be useful to society (8 points)
+        
+              The vision we strive for is a way to make college more accessible to people who wish to go to college but can't afford the ever increasing cost. 
+              We also aim to dismantle the broken system in which college has become more about money than the accessiblity and functionality of college.
+              
+        Identify the major features of each of the proposed projects. (12 points)
+
+              The website would provide statistics based on the college you wish to apply for. This is for the user can make educated decision on which school
+              they would like to apply for. We would also feature links to the FAFSA aplication, College specific application site, the Common App, and scholarship
+              portals. It will also implement a system in which the user would be automatically applied for scholarships and other free finacial aid the user
+              qualifies for.
+        
+        NEXT PERSON
 =======
     
     Reiley Meeks:
