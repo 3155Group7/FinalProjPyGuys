@@ -105,7 +105,33 @@ Group Ideas:
               portals. It will also implement a system in which the user would be automatically applied for scholarships and other free finacial aid the user
               qualifies for.
         
-        NEXT PERSON
-=======
-    
-    Reiley Meeks:
+       Reiley Meeks:
+           Data Sets: 
+               https://www.kaggle.com/cityapiio/countries-quality-of-life-index-2020-year
+               This data set shows the quality of life index for the year 2020 for individual countries. The relevance of this is it can help job seekers determine 
+               regions where they would like to work.
+               
+               https://www.kaggle.com/cityapiio/world-cities-average-internet-prices-2010-2020
+               This data set displays the average internet prices for cities. An important part of living is expenses, and determing the cost of living on essential
+               services could help eliminate cities. 
+               
+               https://www.kaggle.com/cityapiio/world-cities-air-quality-and-water-polution
+               This data set shows the air and water quality index. These are two important factors in ones health, and can determine the cities someone would
+               or would not want to work in.
+               
+           Customer:
+               The customer would be a job seeker. This would be a student, recent graduate, or someone looking to change careers or cities.
+               
+           Problem data sets solve and justification:
+               All three of these data sets give the job seeker an idea of where they would like to live based upon cost of living, quality of life, 
+               and air/water quality. These are all important factors when looking for a new job, or starting your career.
+               
+           Product Fetures:
+               The vision is to help empower job seekers so they can make an informed decision on where they would like to work. This data is often over looked, 
+               or hard to find for job seekers.
+               
+           Major Features: 
+               The website would provide satistics on nations, and cities to help job seekers narrow down regions where they would like to work, and start their 
+               new careers at. By showing the stats in easy to undertsand visula formats the data comes to life. This turns a boring view of data into something 
+               exciting and informative.
+                
