@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e862dc86-5a90-4f87-8e4a-fd493ebd6a8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/countries_quality_of_life_index.18-10-2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/assets/countries_quality_of_life_index.18-10-2021.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/qLife.py" beforeDir="false" afterPath="$PROJECT_DIR$/qLife.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
