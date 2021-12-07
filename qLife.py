@@ -101,7 +101,7 @@ def graph005():
 
     image2 = 'static/images/NCfig2.png'
     image3 = 'static/images/NCfig3.png'
-    return render_template('North-carolina.html', image2=image3)
+    return render_template('North-Carolina.html', image2=image3)
 
 @app.route('/North-Carolina_internet')
 def graph006():
