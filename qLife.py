@@ -139,7 +139,7 @@ def graph006():
 
     image = 'static/images/NCfig1.png'
     image4 = 'static/images/NCfig4.png'
-    return render_template('North-carolina.html', image=image , image2=image4)
+    return render_template('North-Carolina.html', image=image , image2=image4)
     
 
 
