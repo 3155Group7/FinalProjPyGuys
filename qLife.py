@@ -69,15 +69,7 @@ def graph005():
         # Load CSV file from Datasets folder
     df = pd.read_csv('assets/cities_air_quality_water_pollution.18-10-2021.csv')
     
-    # Filtering US Cases
-    filtered_df = df[df[' "Region"'] == ' "North Carolina"']
-    
-    # sort filtered dataframe
-    new_df = filtered_df.sort_values(by=[' "AirQuality"'], ascending=[False])
-    
-    # create graph
-    fig = px.density_heatmap(new_df, x=' "AirQuality"', y=' "WaterPollution"', marginal_x="histogram", marginal_y="histogram")
-    fig.write_image("static/images/NCfig2.png")
+
         
         # Filtering US Cases
     filtered_df = df[df[' "Region"'] == ' "North Carolina"']
@@ -99,7 +91,7 @@ def graph005():
 
 
 
-    image2 = 'static/images/NCfig2.png'
+
     image3 = 'static/images/NCfig3.png'
     return render_template('North-Carolina.html', image2=image3)
 
@@ -155,15 +147,6 @@ def graph006():
 def home():
     return render_template('Home.html')
 
-@app.route('/United-States')
-def states():
-    
-    return render_template('United-States.html')
-"""
-@app.route('/North-Carolina')
-def nc():
-    return render_template('North-Carolina.html')
-"""
 
 @app.route('/Countries-Around-the-Globe')
 def countries():
